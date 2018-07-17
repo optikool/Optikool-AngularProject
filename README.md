@@ -1,2 +1,2 @@
 # Optikool-AngularProject
-Proof of concept project using Angular 4+, NodeJS and Joomla 3
+Proof of concept project using Angular 6, NodeJS and Joomla 3
